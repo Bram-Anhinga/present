@@ -1,0 +1,25 @@
+{
+  "name": "present",
+  "version": "1.0.0",
+  "description": "An app to monitor te attendance of the members of your organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bram-Anhinga/present.git"
+  },
+  "keywords": [
+    "Present",
+    "Attendance",
+    "Members",
+    "Organization"
+  ],
+  "author": "Anhinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bram-Anhinga/present/issues"
+  },
+  "homepage": "https://github.com/Bram-Anhinga/present#readme"
+}
